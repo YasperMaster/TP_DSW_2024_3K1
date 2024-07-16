@@ -5,9 +5,8 @@
 * legajo - Apellido(s), Nombre(s)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [frontend app](https://github.com/cufardixx/TP_DSW_2024_3K1/tree/main/Backend)
+* [backend app](https://github.com/cufardixx/TP_DSW_2024_3K1/tree/main/Frontend)
 
 ## Tema
 ### Descripción
